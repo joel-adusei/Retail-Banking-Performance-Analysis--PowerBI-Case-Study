@@ -1,6 +1,6 @@
-# DESKIFY OFFICE SUPPLY PERFORMANCE ANALYSIS
+# NovaBanc Loan Performance & Risk Analytics Dashboard
 
-## Leveraging Power BI's Advanced Analytics for Product Profitability and Customer Segmentation Analysis at Deskify
+## Leveraging Power BI to Analyze Loan Portfolio Performance, Branch Profitability, and Credit Risk Across Africa
 
 ![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/tim-gouw-KigTvXqetXA-unsplash.jpg?raw=true)
 
