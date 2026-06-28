@@ -93,6 +93,33 @@ I wrote DAX measures for:
 ![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Average%20Tenor%205.JPG?raw=true)
 
 
+- **Total Revenue**
+  
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Total%20Revenue%206.JPG?raw=true)
+
+
+- **Total Net Income**
+  
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Total%20Net%20Income%207.JPG?raw=true)
+
+
+- **Net Profit Margin**
+  
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Net%20Profit%20Margin%208.JPG?raw=true)
+
+
+- **Total Defaulted Loans**
+  
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Total%20Defaulted%20Loans%209.JPG?raw=true)
+
+
+- **Default Rate (%)**
+  
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Default%20Rate%209.JPG?raw=true)
+
+
+
+
 To support robust time-series calculations across the complete 2009–2012 matrix, a custom, standalone time dimension was generated directly inside the Power BI data model using DAX.
 
 
