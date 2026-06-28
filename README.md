@@ -181,16 +181,43 @@ Branch Performance
 
 Branches such as Accra Main, Cairo Branch, and Abuja Central consistently deliver strong financial performance, while other branches present opportunities for operational improvement and targeted growth initiatives.
 
-## RECOMMENDATIONS
+## Business Recommendations
 
-* Review pricing, supplier agreements, and sales strategies for the **Copiers** category to eliminate losses.
-* Develop targeted campaigns and promotions to address the **August profitability decline**.
-* Optimize shipping operations by reducing dependence on costly air freight where possible.
-* Introduce a **VIP loyalty program** for high-value customers and corporate accounts to improve retention.
-* Increase investment in high-performing regions while reassessing strategies in underperforming markets.
-* Leverage the strong demand for Office Supplies to cross-sell Technology products and improve category profitability.
+**Improve Credit Risk Controls**
 
-## BUSINESS IMPACT
+Review lending policies for products with the highest default rates by introducing stricter affordability assessments, enhanced credit scoring, and risk-based pricing.
 
-This analysis identified key profitability drivers, underperforming product lines, seasonal trends, customer concentration risks, and regional growth opportunities, providing actionable insights to support data-driven business decisions.
+
+**Reduce Portfolio Concentration**
+
+Diversify lending by promoting lower-risk products and reducing over-reliance on the top-performing loan categories.
+
+
+**Replicate Best Practices**
+
+
+Identify why the highest-performing branches and loan officers outperform others and implement those practices through training and standardised sales processes.
+
+
+**Strengthen Branch Performance Monitoring**
+
+
+Use branch-level KPIs to identify underperforming locations early and provide targeted operational support.
+
+
+**Expand Lending in High-Growth Markets**
+
+
+Allocate additional lending resources and marketing investment to countries and branches demonstrating consistently strong loan growth and profitability.
+
+
+**Monitor Default Rates Continuously**
+
+
+Establish dashboard alerts when default rates exceed the bank's 20% risk threshold, enabling proactive intervention before losses increase.
+
+
+**Use Seasonal Lending Trends**
+
+Plan promotional campaigns, staffing, and liquidity around historical lending peaks to maximise loan origination during high-demand periods.
 
