@@ -61,7 +61,7 @@ Before building visuals, I had to clean and model the data to ensure the insight
 
 ### Step 2: Modelling & DAX
 
-The data modeling for this project follows a clean Star Schema configuration, where the central Fact Table (Orders) links out to primary Dimension Tables (Orders, Customers, Location, Products, and a programmatic Calendar Table) through unique system identifiers.
+The data modeling for this project follows a clean Star Schema configuration, where the central Fact Table  links out to primary Dimension Tables (officer_dim, department_dim, branch_dim, customer_dim, and a programmatic Calendar Table) through unique system identifiers.
 
 ![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Data%20Model.JPG?raw=true)
 
@@ -131,23 +131,22 @@ To support robust time-series calculations across the complete 2009–2012 matri
 
 ## Step3: DASHBOARD REVIEW
 
-The dashboard provides a comprehensive analysis of product and customer profitability over a four-year period, from 2009 to 2012. It incorporates interactive parameters 
-that allow users to filter and view performance data for a specific year, enabling focused analysis and comparison of sales trends across different time frames.
+The dashboard delivers an end-to-end view of NovaBanc's lending operations by combining loan portfolio analytics with financial and risk performance metrics. Interactive slicers allow users to filter results by country, loan status, and year, making it easy to compare lending trends, monitor branch performance, and evaluate portfolio risk over time.
 
-1️⃣ **Product Insights**
+1️⃣ **Loan Performance & Portfolio**
 
 Key KPIs, Total Profit by Product Category, Total Orders by Ship Mode, Top 10 Best Performing States by Profit, Total Profit by Product Name, and Total Profit by Month.
 
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/Product%20Analysis.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/Loan%20Performance%20&%20Portfolio%20Dashboard.JPG?raw=true)
 
 
 
-2️⃣ **Customer Insights**
+2️⃣ **Risk & Financial Performace**
 
 Key KPIs, Profitability by Customer Segment, Profitability by Product Sub-Category, Profitability by Customer, Profitability by Region 
 and Customer Segment.
 
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/Customer%20Analysis.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/Risk%20&%20Financial%20Performance%20Dashboard.JPG?raw=true)
 
 
 
