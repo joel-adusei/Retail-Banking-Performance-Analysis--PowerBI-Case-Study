@@ -2,7 +2,7 @@
 
 ## Leveraging Power BI to Analyze Loan Portfolio Performance, Branch Profitability, and Credit Risk Across Africa
 
-![image]()
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/bank%20image.png?raw=true)
 
 
 ***Disclaimer⚠️:*** All datasets, slides and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual mention. All info are dummy and design to demonstrate my capabilities of using PowerBI to perform advance analysis
