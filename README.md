@@ -153,7 +153,7 @@ The dashboard delivers an end-to-end view of NovaBanc's lending operations by co
 
 NovaBanc successfully disbursed approximately ₦25 Billion across 2,000 loans, serving 300 customers with an average loan amount of ₦12 Million and an average repayment period of 29 months.
 
-Lending Trends
+- Lending Trends
 
 Loan disbursement remained relatively stable throughout the year, with noticeable increases during March–April and August, indicating periods of stronger lending demand.
 
