@@ -42,10 +42,11 @@ Revenue, costs, and net income reporting require extensive manual consolidation,
 
 
 ## AIM OF THE PROJECT
-- To build a data model using Deskify OfficeSupply Co.’s sales and transaction reporting by using Power BI. This solution will
-centralize data sources and streamline data cleaning. By reducing manual processes, the project will improve reporting accuracy and efficiency.
 
-- Build an interactive dashboards that will enable faster, data-driven decisions.
+* To design and develop an interactive Power BI dashboard using NovaBanc's existing retail banking data model and DAX measures. This solution will transform complex lending and financial data into intuitive visual reports, enabling stakeholders to monitor loan portfolio performance, branch productivity, profitability, and credit risk from a centralized dashboard.
+
+* To create dynamic, interactive dashboards that provide real-time visibility into key banking KPIs, lending trends, branch performance, and financial metrics, empowering management to make faster, data-driven decisions through self-service analytics.
+
   
 
 
