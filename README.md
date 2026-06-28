@@ -56,47 +56,47 @@ Before building visuals, I had to clean and model the data to ensure the insight
 
 ### Step 1: Data Cleaning & Preparation
 
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/data%20clean%20-%20deskify.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Data%20Cleaning.JPG?raw=true)
 
 
 ### Step 2: Modelling & DAX
 
 The data modeling for this project follows a clean Star Schema configuration, where the central Fact Table (Orders) links out to primary Dimension Tables (Orders, Customers, Location, Products, and a programmatic Calendar Table) through unique system identifiers.
 
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/deskify%20data%20model.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Data%20Model.JPG?raw=true)
 
 
 I wrote DAX measures for:
 
-- **Total Revenue**
+- **Total Principal Disbursed**
   
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/TR-deskify.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Total%20Principal%20Disbursed%201.JPG?raw=true)
 
 
-- **Total profit**
+- **Total Loans Disbursed**
   
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/TP-deskify.JPG?raw=true)
-
-
-- **Total Orders**
-  
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/TO-deskify.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Total%20Loans%20Disbursed%202.JPG?raw=true)
 
 
 - **Total Customers**
   
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/TC-deskify.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Total%20Customers%203.JPG?raw=true)
 
 
-- **Profit Margin**
+- **Average Loan Amount**
   
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/PM-deskify.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Average%20Loan%20Amount%204.JPG?raw=true)
+
+
+- **Average Tenor (Months)**
+  
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/Average%20Tenor%205.JPG?raw=true)
 
 
 To support robust time-series calculations across the complete 2009–2012 matrix, a custom, standalone time dimension was generated directly inside the Power BI data model using DAX.
 
 
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/calenderdim.JPG?raw=true)
+![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/assets/calendar%20Dim.JPG?raw=true)
 
 
 
