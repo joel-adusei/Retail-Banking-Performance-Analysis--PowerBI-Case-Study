@@ -2,24 +2,43 @@
 
 ## Leveraging Power BI to Analyze Loan Portfolio Performance, Branch Profitability, and Credit Risk Across Africa
 
-![image](https://github.com/joel-adusei/DeskifyOfficeSupply-PowerBI-CaseStudy/blob/main/images/tim-gouw-KigTvXqetXA-unsplash.jpg?raw=true)
+![image]()
 
 
 ***Disclaimer⚠️:*** All datasets, slides and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual mention. All info are dummy and design to demonstrate my capabilities of using PowerBI to perform advance analysis
 
 
-## INTRODUCTION
+## PROJECT OVERVIEW
 
-For this case study, I analyzed data from Deskify's Office Supply, a fictional U.S. company specializing in office supplies, technology/computer accessories, 
-and furniture. Serving both individual consumers and businesses with a diverse product portfolio, the company provided an ideal dataset for exploring sales performance. 
-Using Power BI, I uncovered actionable insights to support data-driven decision-making around customer behavior, product performance, and overall business growth.
+NovaBanc is a fictional pan-African commercial bank operating across multiple African countries, offering a wide range of financial products including Education Loans, SME Loans, Corporate Loans, Consumer Loans, Auto Loans, and Trade Finance.
+
+As the bank continues expanding its lending operations, executive management requires a centralized reporting solution capable of monitoring loan growth, branch profitability, customer activity, and credit risk in real time.
+
+This project demonstrates how Power BI can transform fragmented financial datasets into interactive business intelligence dashboards that support strategic lending decisions and operational excellence.
 
 
 
 ## PROBLEM STATEMENT
-The organization currently depends on Excel for compiling, analyzing, and reporting its monthly sales and transaction data. It has become increasingly cumbersome and time-consuming due
-to the complexity of the data and the high volume of transactions processed each month. Reporting process involves manual data entry, consolidation from multiple sources which introduces 
-errors and inconsistencies.
+
+NovaBanc currently relies on manually prepared reports from multiple departments to monitor lending operations and financial performance.
+
+This reporting process presents several operational challenges:
+
+Portfolio Visibility
+
+Management lacks a centralized view of loan disbursement performance across branches, countries, and loan products.
+
+Credit Risk Monitoring
+
+High-default loan products cannot easily be identified, making proactive risk management difficult.
+
+Branch Performance Evaluation
+
+Executives have limited visibility into which branches generate the highest revenue, profitability, and loan volumes.
+
+Financial Reporting
+
+Revenue, costs, and net income reporting require extensive manual consolidation, increasing reporting time and reducing accuracy.
 
 
 ## AIM OF THE PROJECT
@@ -106,38 +125,37 @@ and Customer Segment.
 
 ## KEY INSIGHTS
 
-### **Revenue & Profitability**
+- Loan Portfolio Performance
 
-Deskify generated **$14.74M in revenue** and **$1.52M in profit**, resulting in a **10.33% profit margin**. The business operates on a high-volume, low-margin model, making cost efficiency and operational optimization critical to profitability.
+NovaBanc successfully disbursed approximately ₦25 Billion across 2,000 loans, serving 300 customers with an average loan amount of ₦12 Million and an average repayment period of 29 months.
 
-### **Product Performance**
+Lending Trends
 
-* **Office Supplies** is the primary profit driver, contributing **64.7% ($985K)** of total profit.
-* Top-performing sub-categories include **Binders ($260K)** and **Paper ($242K)**.
-* **Technology** contributes only **13.5% ($206K)** of profit despite its strategic importance.
-* **Copiers** are the only loss-making sub-category, generating **-$16K** in profit.
+Loan disbursement remained relatively stable throughout the year, with noticeable increases during March–April and August, indicating periods of stronger lending demand.
 
-### **Customer Segments**
+- Product Performance
 
-* The **Corporate** segment delivers the highest profit contribution (**$530K**), followed by **Home Office ($390K)**.
-* A small group of high-value customers contributes a disproportionately large share of total profits, highlighting opportunities for customer retention and account management strategies.
+Education Loans, Scholarship Loans, and SME Business Loans represent the strongest-performing products, reflecting sustained demand for educational financing and business expansion capital.
 
-### **Seasonal Trends**
+- Financial Performance
 
-Profitability demonstrates strong seasonality:
+NovaBanc generated approximately:
 
-* Peak performance occurs in **September ($167K)** and **October ($177K)**.
-* **August ($81K)** is the weakest month, indicating a significant seasonal slowdown that may require targeted promotional activity.
+₦12 Billion Total Revenue
+₦4 Billion Net Income
+30.14% Net Profit Margin
 
-### **Regional Performance**
+These figures indicate healthy profitability supported by effective cost management and diversified lending operations.
 
-* **Northwest Territories** is the strongest-performing region, generating approximately **$569K** in profit.
-* **Quebec ($14K)** and **Yukon ($6K)** show substantially lower profitability, suggesting opportunities for market expansion or operational review.
+- Credit Risk
 
-### **Shipping & Fulfillment**
+The overall portfolio records a 24.15% Default Rate, highlighting the need for stronger credit monitoring and risk mitigation strategies.
 
-* **Regular Air** accounts for **74% of all shipments**, making it the dominant fulfillment method.
-* Heavy reliance on air freight may be limiting overall profitability due to higher transportation costs.
+Salary Advance, Student Loans, and Mortgage Loans exhibit the highest default exposure and should be prioritized for enhanced credit assessment.
+
+Branch Performance
+
+Branches such as Accra Main, Cairo Branch, and Abuja Central consistently deliver strong financial performance, while other branches present opportunities for operational improvement and targeted growth initiatives.
 
 ## RECOMMENDATIONS
 
