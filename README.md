@@ -135,7 +135,6 @@ The dashboard delivers an end-to-end view of NovaBanc's lending operations by co
 
 1️⃣ **Loan Performance & Portfolio**
 
-Key KPIs, Total Profit by Product Category, Total Orders by Ship Mode, Top 10 Best Performing States by Profit, Total Profit by Product Name, and Total Profit by Month.
 
 ![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/Loan%20Performance%20&%20Portfolio%20Dashboard.JPG?raw=true)
 
@@ -143,8 +142,6 @@ Key KPIs, Total Profit by Product Category, Total Orders by Ship Mode, Top 10 Be
 
 2️⃣ **Risk & Financial Performace**
 
-Key KPIs, Profitability by Customer Segment, Profitability by Product Sub-Category, Profitability by Customer, Profitability by Region 
-and Customer Segment.
 
 ![image](https://github.com/joel-adusei/Retail-Banking-Performance-Analysis--PowerBI-Case-Study/blob/main/Risk%20&%20Financial%20Performance%20Dashboard.JPG?raw=true)
 
