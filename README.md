@@ -221,3 +221,20 @@ Establish dashboard alerts when default rates exceed the bank's 20% risk thresho
 
 Plan promotional campaigns, staffing, and liquidity around historical lending peaks to maximise loan origination during high-demand periods.
 
+
+## Business Impact
+
+- Delivered a centralized executive reporting solution that provides a single source of truth for monitoring a ₦25bn loan portfolio across 10 branches in 9 countries.
+  
+- Replaced static KPI tables with interactive Power BI dashboards, enabling faster analysis of 2,000 loan disbursements, 300 customers, profitability, and credit risk.
+  
+- Improved executive visibility into lending performance through real-time KPI tracking, including Total Revenue (₦12bn), Net Income (₦4bn), and Default Rate (24.15%).
+  
+- Enabled branch and country benchmarking to identify top-performing branches, high-performing loan officers, and underperforming locations requiring management attention.
+  
+- Supported proactive risk management by highlighting loan products with the highest default rates and monitoring performance against the bank's 20% risk appetite.
+  
+- Reduced the time required to analyse lending trends through interactive filtering by country, loan status, and year, enabling self-service reporting for business stakeholders.
+  
+- Enhanced strategic decision-making by combining financial performance, portfolio growth, geographic distribution, and risk metrics within a single executive dashboard.
+
